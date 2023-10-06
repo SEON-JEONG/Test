@@ -1,0 +1,76 @@
+{
+  "data":[
+  {
+    "id":1,
+    "name":"FEJKA 페이카",
+    "info":"인조식물, 실내외겸용/피쿠스 베니아미나 엑소티카 줄기",
+    "price":500,
+    "img":"https://www.ikea.com/kr/ko/images/products/fejka-artificial-potted-plant-in-outdoor-areca-palm__1034054_pe840165_s5.jpg?f=xxs",
+    "category":"flora"
+  },
+  {
+    "id":2,
+    "name":"FÄRGKLAR 페리클라르",
+    "info":"그릇, 유광 베이지",
+    "price":9900,
+    "img":"https://www.ikea.com/kr/ko/images/products/faergklar-bowl-glossy-beige__1009732_pe827715_s5.jpg?f=xs",
+    "category":"kitchen"
+  },
+  {
+    "id":3,
+    "name":"TORARED 토라레드",
+    "info":"펜던트전등갓, 해초/핸드메이드, 36 cm",
+    "price":29900,
+    "img":"https://www.ikea.com/kr/ko/images/products/torared-pendant-lamp-shade-seagrass-handmade__0764665_pe753263_s5.jpg?f=xxxs",
+    "category":"lamp"
+  },
+  {
+    "id":4,
+    "name":"FEJKA 페이카",
+    "info":"인조식물, 실내외겸용/피쿠스 베니아미나 엑소티카 줄기",
+    "price":4900,
+    "img":"https://www.ikea.com/kr/ko/images/products/fejka-artificial-potted-plant-in-outdoor-weeping-fig-stem__0614175_pe686802_s5.jpg?f=xs",
+    "category":"flora"
+  },
+  {
+    "id":5,
+    "name":"MAMMUT 맘무트",
+    "info":"어린이스툴, 실내외겸용/옐로",
+    "price":9900,
+    "img":"https://www.ikea.com/kr/ko/images/products/mammut-childrens-stool-in-outdoor-yellow__0727954_pe735970_s5.jpg?f=xs",
+    "category":"kids"
+  },
+  {
+    "id":6,
+    "name":"AFTONSPARV 아프톤스파르브",
+    "info":"우주비행사 봉제인형, 고양이, 28 cm",
+    "price":14900,
+    "img":"https://www.ikea.com/kr/ko/images/products/aftonsparv-soft-toy-with-astronaut-suit-cat__1268789_ph195774_s5.jpg?f=xxxs",
+    "category":"kids"
+  },
+  {
+    "id":7,
+    "name":"UPPLYST 우플뤼스트",
+    "info":"LED벽부착등, 구름 화이트",
+    "price":19900,
+    "img":"https://www.ikea.com/kr/ko/images/products/upplyst-led-wall-lamp-cloud-white__0805754_pe769688_s5.jpg?f=xs",
+    "category":"lamp"
+  },
+  {
+    "id":8,
+    "name":"LÄTTAD 레타드",
+    "info":"식탁매트, 해초/블랙, 37 cm",
+    "price":6900,
+    "img":"https://www.ikea.com/kr/ko/images/products/laettad-place-mat-seagrass-black__1190401_ph188333_s5.jpg?f=xs",
+    "category":"kitchen"
+  },
+  {
+    "id":9,
+    "name":"SUFFLETT 수플레트",
+    "info":"베드텐트, 핑크, 70/80/90",
+    "price":24900,
+    "img":"https://www.ikea.com/kr/ko/images/products/sufflett-bed-tent-pink__0911398_ph164226_s5.jpg?f=xxs",
+    "category":"kids"
+  }
+]
+}
